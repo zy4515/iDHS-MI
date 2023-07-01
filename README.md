@@ -12,7 +12,7 @@ keras==2.3.1
 
 Usage
 
-# example for train
+example for train
 python train.py -i .../retina-train.fa -o .../retina_trainResult
-# example for test
+example for test
 python test.py -p .../retina-test.fa -a .../model_1.h5 -b .../model_2.h5 -c .../model_3.h5 -d .../model_4.h5 -o .../retina_testResult
